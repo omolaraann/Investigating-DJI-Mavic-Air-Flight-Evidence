@@ -1,0 +1,8 @@
+d: 【国家码获取（get）】触发点：开机首次获取，打开app时触发（这个事件经常和手机第一次获取GPS一起发生）
+d: get cc onFailure=get cc failure for network is disconnect
+d: 【国家码获取（get）】触发后策略选择： 
+d: get city failure no=0
+d: 【国家码获取（get）】触发点：开机首次获取，打开app时触发（这个事件经常和手机第一次获取GPS一起发生）
+d: get cc onFailure=get cc failure for network is disconnect
+d: 【国家码获取（get）】触发后策略选择： 
+d: get city failure no=0

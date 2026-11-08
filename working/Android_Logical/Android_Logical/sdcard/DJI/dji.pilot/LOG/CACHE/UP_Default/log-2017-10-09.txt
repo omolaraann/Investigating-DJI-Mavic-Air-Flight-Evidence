@@ -1,0 +1,8 @@
+e: disconnect pid(2033),tid(2033)
+e: connect 2 false pid(2033),tid(2599)
+e: getVersion DM368_G pid(2033),tid(4728)
+e: getDeviceInfo broadcast TIMEOUT pid(2033),tid(4733)
+e: disconnect 2 pid(2033),tid(4725)
+e: disconnect pid(2033),tid(4725)
+e: disconnect 2 pid(2033),tid(6187)
+e: disconnect pid(2033),tid(6187)

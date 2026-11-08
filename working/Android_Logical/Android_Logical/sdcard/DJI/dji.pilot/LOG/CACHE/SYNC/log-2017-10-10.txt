@@ -1,0 +1,46 @@
+d: 2017-10-10 09:55:05:  beginSync video
+d: 2017-10-10 09:55:05:  cameraActivity:falseisEnableBgDownload:truesdCardActivity:falseisPullSDcardFile:falseactiveActivity:falsePhotoOrgDownloadIng:falseisDownFirmwareActivity:false
+d: 2017-10-10 09:55:05:  commomtState:false
+d: 2017-10-10 09:55:05:  isCanPullFile:false
+d: 2017-10-10 09:55:05:  cameraActivity:falseisEnableBgDownload:truesdCardActivity:falseisPullSDcardFile:falseactiveActivity:falsePhotoOrgDownloadIng:falseisDownFirmwareActivity:false
+d: 2017-10-10 09:55:05:  commomtState:false
+d: 2017-10-10 09:55:09:  beginSync
+d: 2017-10-10 09:55:09:  pIsSyncing:false
+d: 2017-10-10 09:55:09:  cameraActivity:falseisEnableBgDownload:truesdCardActivity:falseisPullSDcardFile:falseactiveActivity:falsePhotoOrgDownloadIng:falseisDownFirmwareActivity:false
+d: 2017-10-10 09:55:09:  commomtState:false
+d: 2017-10-10 09:55:09:  isCanPullFile:false
+d: 2017-10-10 09:55:09:  cameraActivity:falseisEnableBgDownload:truesdCardActivity:falseisPullSDcardFile:falseactiveActivity:falsePhotoOrgDownloadIng:falseisDownFirmwareActivity:false
+d: 2017-10-10 09:55:09:  commomtState:false
+d: 2017-10-10 09:58:07:  cameraActivity:falseisEnableBgDownload:truesdCardActivity:falseisPullSDcardFile:falseactiveActivity:falsePhotoOrgDownloadIng:falseisDownFirmwareActivity:false
+d: 2017-10-10 09:58:07:  commomtState:false
+d: 2017-10-10 09:58:07:  beginSync video
+d: 2017-10-10 09:58:07:  cameraActivity:falseisEnableBgDownload:truesdCardActivity:falseisPullSDcardFile:falseactiveActivity:falsePhotoOrgDownloadIng:falseisDownFirmwareActivity:false
+d: 2017-10-10 09:58:07:  commomtState:false
+d: 2017-10-10 09:58:07:  isCanPullFile:false
+d: 2017-10-10 09:58:07:  cameraActivity:falseisEnableBgDownload:truesdCardActivity:falseisPullSDcardFile:falseactiveActivity:falsePhotoOrgDownloadIng:falseisDownFirmwareActivity:false
+d: 2017-10-10 09:58:07:  commomtState:false
+d: 2017-10-10 09:58:11:  beginSync
+d: 2017-10-10 09:58:11:  pIsSyncing:false
+d: 2017-10-10 09:58:11:  cameraActivity:falseisEnableBgDownload:truesdCardActivity:falseisPullSDcardFile:falseactiveActivity:falsePhotoOrgDownloadIng:falseisDownFirmwareActivity:false
+d: 2017-10-10 09:58:11:  commomtState:false
+d: 2017-10-10 09:58:11:  isCanPullFile:false
+d: 2017-10-10 09:58:11:  cameraActivity:falseisEnableBgDownload:truesdCardActivity:falseisPullSDcardFile:falseactiveActivity:falsePhotoOrgDownloadIng:falseisDownFirmwareActivity:false
+d: 2017-10-10 09:58:11:  commomtState:false
+d: 2017-10-10 09:59:21:  beginSync video
+d: 2017-10-10 09:59:22:  cameraActivity:falseisEnableBgDownload:truesdCardActivity:falseisPullSDcardFile:falseactiveActivity:falsePhotoOrgDownloadIng:falseisDownFirmwareActivity:false
+d: 2017-10-10 09:59:23:  commomtState:false
+d: 2017-10-10 09:59:23:  isCanPullFile:false
+d: 2017-10-10 09:59:23:  cameraActivity:falseisEnableBgDownload:truesdCardActivity:falseisPullSDcardFile:falseactiveActivity:falsePhotoOrgDownloadIng:falseisDownFirmwareActivity:false
+d: 2017-10-10 09:59:23:  commomtState:false
+d: 2017-10-10 09:59:26:  beginSync
+d: 2017-10-10 09:59:26:  pIsSyncing:false
+d: 2017-10-10 09:59:27:  cameraActivity:falseisEnableBgDownload:truesdCardActivity:falseisPullSDcardFile:falseactiveActivity:falsePhotoOrgDownloadIng:falseisDownFirmwareActivity:false
+d: 2017-10-10 09:59:27:  commomtState:false
+d: 2017-10-10 09:59:27:  isCanPullFile:false
+d: 2017-10-10 09:59:27:  cameraActivity:falseisEnableBgDownload:truesdCardActivity:falseisPullSDcardFile:falseactiveActivity:falsePhotoOrgDownloadIng:falseisDownFirmwareActivity:false
+d: 2017-10-10 09:59:27:  commomtState:false
+d: 2017-10-10 10:08:17:  beginSync video
+d: 2017-10-10 10:08:17:  cameraActivity:trueisEnableBgDownload:truesdCardActivity:falseisPullSDcardFile:falseactiveActivity:falsePhotoOrgDownloadIng:falseisDownFirmwareActivity:false
+d: 2017-10-10 10:08:17:  isCanPullFile:false
+d: 2017-10-10 10:08:17:  cameraActivity:trueisEnableBgDownload:truesdCardActivity:falseisPullSDcardFile:falseactiveActivity:falsePhotoOrgDownloadIng:falseisDownFirmwareActivity:false
+d: 2017-10-10 10:08:23:  cameraActivity:trueisEnableBgDownload:truesdCardActivity:falseisPullSDcardFile:falseactiveActivity:falsePhotoOrgDownloadIng:falseisDownFirmwareActivity:false

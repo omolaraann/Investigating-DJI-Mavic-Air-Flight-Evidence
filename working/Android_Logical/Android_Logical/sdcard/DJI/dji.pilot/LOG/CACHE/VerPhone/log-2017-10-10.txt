@@ -1,0 +1,14 @@
+2017-10-10 09:55:06:564 E: 
+**********init**********
+2017-10-10 09:55:09:479 E: start getStateFromFlyc isForce=true
+2017-10-10 09:55:09:621 E: success getStateFromFlyc  flyc flag()=NotBind, local snPhoneStatus=null
+2017-10-10 09:55:09:633 E: onFlycPhoneStatusUnknown status is null
+2017-10-10 09:55:09:645 E: save status status=Unknown
+2017-10-10 09:58:08:427 E: 
+**********init**********
+2017-10-10 09:59:22:473 E: 
+**********init**********
+2017-10-10 09:59:27:503 E: start getStateFromFlyc isForce=true
+2017-10-10 09:59:27:691 E: success getStateFromFlyc  flyc flag()=NotBind, local snPhoneStatus=Unknown
+2017-10-10 09:59:27:769 E:  status=Unknown
+2017-10-10 09:59:27:855 E: onFlycPhoneStatusUnknown status=Unknown

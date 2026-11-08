@@ -1,0 +1,53 @@
+e: 2017-10-10 09:55:03:  db init step free size: 2765
+e: 2017-10-10 09:55:04:  db init step free size: 2765
+d: 2017-10-10 09:55:04:  mPolygonDb create success null 0
+e: 2017-10-10 09:55:22:  fetchPolygonTfrs has no network connected
+e: 2017-10-10 09:55:22:  compareUuid local not exist uuid
+d: 2017-10-10 09:55:33:  Start check area nearby! Pos: 39.96124799530551 -106.21629941747571
+d: 2017-10-10 09:55:33:  ***into controller no 1860***
+d: 2017-10-10 09:55:33:  area range, lat start: 39.06248379607941 lat end: 40.86001219453161 lng start: -107.40465328403607 lng end: -105.02794555091535
+d: 2017-10-10 09:55:33:  NFZ check succeed, size11: 8
+d: 2017-10-10 09:55:33:  Check finished, num: 0
+d: 2017-10-10 09:55:33:  Ready to send to remote, size: 0
+d: 2017-10-10 09:55:33:  Refresh map marker, pos: 39.961247797812995 -106.21629973253715
+d: 2017-10-10 09:55:38:  Manager start check logic.
+d: 2017-10-10 09:55:38:  Start check area nearby! Pos: 39.96125382207989 -106.21630142399515
+d: 2017-10-10 09:55:38:  ***into controller no 1860***
+d: 2017-10-10 09:55:38:  Check finished, num: 0
+d: 2017-10-10 09:55:38:  Manager check finished, size: 0
+d: 2017-10-10 09:55:38:  Start check area nearby! Pos: 39.96125382207989 -106.21630142399515
+d: 2017-10-10 09:55:38:  ***into controller no 1860***
+d: 2017-10-10 09:55:38:  Check finished, num: 0
+d: 2017-10-10 09:55:38:  Ready to send to remote, size: 0
+d: 2017-10-10 09:55:38:  Refresh map marker, pos: 39.96125396583119 -106.21630140454116
+e: 2017-10-10 09:58:01:  db init step free size: 2765
+e: 2017-10-10 09:58:02:  db init step free size: 2765
+d: 2017-10-10 09:58:02:  mPolygonDb create success null 0
+e: 2017-10-10 09:59:16:  db init step free size: 2765
+e: 2017-10-10 09:59:17:  db init step free size: 2765
+d: 2017-10-10 09:59:17:  mPolygonDb create success null 0
+d: 2017-10-10 09:59:36:  Start check area nearby! Pos: 39.96127145372302 -106.21631809841092
+d: 2017-10-10 09:59:36:  ***into controller no 1860***
+d: 2017-10-10 09:59:36:  area range, lat start: 39.06250725449692 lat end: 40.86003565294912 lng start: -107.40467238583491 lng end: -105.02796381098693
+d: 2017-10-10 09:59:36:  NFZ check succeed, size11: 8
+d: 2017-10-10 09:59:36:  Check finished, num: 0
+d: 2017-10-10 09:59:36:  Ready to send to remote, size: 0
+d: 2017-10-10 09:59:37:  Refresh map marker, pos: 39.96127149982916 -106.21631907255379
+d: 2017-10-10 09:59:40:  Manager start check logic.
+d: 2017-10-10 09:59:40:  Start check area nearby! Pos: 39.96127132642593 -106.21631881258963
+d: 2017-10-10 09:59:40:  ***into controller no 1860***
+d: 2017-10-10 09:59:40:  Check finished, num: 0
+d: 2017-10-10 09:59:40:  Manager check finished, size: 0
+d: 2017-10-10 09:59:40:  Start check area nearby! Pos: 39.96127132642593 -106.21631881258963
+d: 2017-10-10 09:59:40:  ***into controller no 1860***
+d: 2017-10-10 09:59:40:  Check finished, num: 0
+d: 2017-10-10 09:59:40:  Ready to send to remote, size: 0
+d: 2017-10-10 09:59:40:  Refresh map marker, pos: 39.961271384528814 -106.21631879921308
+d: 2017-10-10 10:02:22:  Start check area nearby! Pos: 39.96126318009901 -106.21631371731186
+d: 2017-10-10 10:02:22:  ***into controller no 1860***
+d: 2017-10-10 10:02:22:  Check finished, num: 0
+d: 2017-10-10 10:08:26:  Manager start check logic.
+d: 2017-10-10 10:08:26:  Start check area nearby! Pos: 39.961261113161456 -106.2162953323757
+d: 2017-10-10 10:08:26:  ***into controller no 1860***
+d: 2017-10-10 10:08:26:  Check finished, num: 0
+d: 2017-10-10 10:08:26:  Manager check finished, size: 0

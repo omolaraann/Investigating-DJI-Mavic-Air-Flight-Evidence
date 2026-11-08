@@ -1,0 +1,45 @@
+d: 【国家码获取（get）】触发点：开机首次获取，打开app时触发（这个事件经常和手机第一次获取GPS一起发生）
+d: 【国家码获取（get）】触发后策略选择： 飞机GPS没有获得，手机GPS没有获得，mCC没有获得，采取策略4:IP策略
+d: 【国家码获取（get）】触发点：:获取token时候触发
+d: 【国家码获取（get）】触发后策略选择： 飞机GPS没有获得，手机GPS没有获得，mCC没有获得，采取策略4:IP策略
+d: mStrategyValue:UAV_GPS > MOBILE_GPS > MCC > NO_GPS:
+d: get cc success=US, strategy=getFromBeWithoutGps
+d: post countryCode = US
+d: mStrategyValue:UAV_GPS > MOBILE_GPS > MCC > NO_GPS:
+d: get cc success=US, strategy=getFromBeWithoutGps
+d: get city failure no=429
+d: 【国家码获取（get）】触发点：:网络变化且成功联网，DJINetWorkStatusEvent = CONNECT_OK
+d: 【国家码获取（get）】触发后策略选择： 飞机GPS没有获得，手机GPS没有获得，mCC没有获得，采取策略4:IP策略
+d: mStrategyValue:UAV_GPS > MOBILE_GPS > MCC > NO_GPS:
+d: get cc success=US, strategy=getFromBeWithoutGps
+d: get city failure no=429
+d: 【国家码获取（get）】触发点：:开机首次获取手机GPs时触发
+d: 【国家码获取（get）】触发后策略选择： 飞机GPS没有获得，手机GPS获得，采取策略2:MobileGps策略
+d: mStrategyValue:UAV_GPS > MOBILE_GPS > MCC > NO_GPS:
+d: get cc success=US, strategy=getFromBeWithMobileGps
+d: get city failure no=429
+d: 【国家码获取（get）】触发点：开机首次获取，打开app时触发（这个事件经常和手机第一次获取GPS一起发生）
+d: 【国家码获取（get）】触发后策略选择： 飞机GPS没有获得，手机GPS获得，采取策略2:MobileGps策略
+d: 【国家码获取（get）】触发点：:网络变化且成功联网，DJINetWorkStatusEvent = CONNECT_OK
+d: 【国家码获取（get）】触发后策略选择： 飞机GPS没有获得，手机GPS获得，采取策略2:MobileGps策略
+d: mStrategyValue:UAV_GPS > MOBILE_GPS > MCC > NO_GPS:
+d: get cc success=US, strategy=getFromBeWithMobileGps
+d: post countryCode = US
+d: mStrategyValue:UAV_GPS > MOBILE_GPS > MCC > NO_GPS:
+d: 尚未获取手机gps,监听手机开机首次获取手机GPs
+d: get cc success=US, strategy=getFromBeWithMobileGps
+d: get city failure no=429
+d: get city failure no=429
+d: 尚未获取手机gps,监听手机开机首次获取手机GPs
+d: 尚未获取手机gps,监听手机开机首次获取手机GPs
+d: 尚未获取手机gps,监听手机开机首次获取手机GPs
+d: 尚未获取手机gps,监听手机开机首次获取手机GPs
+d: 尚未获取手机gps,监听手机开机首次获取手机GPs
+d: 尚未获取手机gps,监听手机开机首次获取手机GPs
+d: 尚未获取手机gps,监听手机开机首次获取手机GPs
+d: 尚未获取手机gps,监听手机开机首次获取手机GPs
+d: 尚未获取手机gps,监听手机开机首次获取手机GPs
+d: 尚未获取手机gps,监听手机开机首次获取手机GPs
+d: 尚未获取手机gps,监听手机开机首次获取手机GPs
+d: 尚未获取手机gps,监听手机开机首次获取手机GPs
+d: 尚未获取手机gps,监听手机开机首次获取手机GPs

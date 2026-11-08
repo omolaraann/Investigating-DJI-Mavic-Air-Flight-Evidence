@@ -1,0 +1,2 @@
+d: registerDeviceUrl success t={"status":0,"token":"8c6ea25a-c989-4347-8cf2-31a8e4bbbdb4","services":[null]}
+d: server deviceToken getted

@@ -1,0 +1,14 @@
+e: 2017-10-09 12:18:57:  db init step free size: 2872
+e: 2017-10-09 12:18:59:  db init step free size: 2872
+d: 2017-10-09 12:18:59:  mPolygonDb create success null 0
+d: 2017-10-09 12:20:27:  *****Request NFZ params start, pos: 39.9201741 -105.1127965, kalost: false
+d: 2017-10-09 12:20:28:  Request NFZ params onSuccess, data source: airmap country: US
+d: 2017-10-09 12:20:28:  *****Update data from server start. Source: airmap
+d: 2017-10-09 12:20:28:  fetchPolygonTfrs onSuccess model ok, timestamp: 1507573227
+d: 2017-10-09 12:20:51:  Update data from server saved done, size: 11
+d: 2017-10-09 12:20:51:  *****Update data from own server
+d: 2017-10-09 12:20:51:  *****Update data from server start. Source: airmap
+d: 2017-10-09 12:21:15:  Update data from server saved done, size: 11
+e: 2017-10-09 12:42:49:  db init step free size: 2792
+e: 2017-10-09 12:42:50:  db init step free size: 2792
+d: 2017-10-09 12:42:50:  mPolygonDb create success null 0

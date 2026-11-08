@@ -1,0 +1,20 @@
+libcore.io.DiskLruCache
+1
+1
+1
+
+DIRTY 2cmsgpo3xyz7a5g8c2twm1zcj
+CLEAN 2cmsgpo3xyz7a5g8c2twm1zcj 8414
+READ 2cmsgpo3xyz7a5g8c2twm1zcj
+READ 2cmsgpo3xyz7a5g8c2twm1zcj
+READ 2cmsgpo3xyz7a5g8c2twm1zcj
+READ 2cmsgpo3xyz7a5g8c2twm1zcj
+READ 2cmsgpo3xyz7a5g8c2twm1zcj
+DIRTY 6bkm680zskvd7si9m75pippui
+DIRTY 2ec8zc1rfdpe2wf7ownjl19c1
+CLEAN 6bkm680zskvd7si9m75pippui 19605
+READ 6bkm680zskvd7si9m75pippui
+READ 6bkm680zskvd7si9m75pippui
+REMOVE 2ec8zc1rfdpe2wf7ownjl19c1
+DIRTY 2ec8zc1rfdpe2wf7ownjl19c1
+CLEAN 2ec8zc1rfdpe2wf7ownjl19c1 666994

@@ -1,0 +1,18 @@
+e: 2017-09-27 11:23:37:  db init step free size: 3848
+d: 2017-09-27 11:23:37:  generate db alias success!
+e: 2017-09-27 11:23:38:  db init step free size: 3848
+d: 2017-09-27 11:23:38:  mPolygonDb create success null 0
+d: 2017-09-27 11:23:56:  Geo read from json start
+d: 2017-09-27 11:24:25:  Geo read from json done
+d: 2017-09-27 11:24:30:  *****Request NFZ params start, pos: 39.9201907 -105.1128193, kalost: false
+d: 2017-09-27 11:24:30:  Request NFZ params onSuccess, data source: airmap country: US
+d: 2017-09-27 11:24:30:  *****Update data from server start. Source: airmap
+d: 2017-09-27 11:24:30:  fetchPolygonTfrs onSuccess model ok, timestamp: 1506533070
+d: 2017-09-27 11:24:44:  Update data from server saved done, size: 11
+d: 2017-09-27 11:24:44:  *****Update data from own server
+d: 2017-09-27 11:24:44:  *****Update data from server start. Source: airmap
+d: 2017-09-27 11:24:59:  Update data from server saved done, size: 11
+e: 2017-09-27 11:56:32:  db init step free size: 2669
+e: 2017-09-27 11:56:33:  db init step free size: 2669
+d: 2017-09-27 11:56:34:  generate db alias success!
+d: 2017-09-27 11:56:34:  mPolygonDb create success null 0

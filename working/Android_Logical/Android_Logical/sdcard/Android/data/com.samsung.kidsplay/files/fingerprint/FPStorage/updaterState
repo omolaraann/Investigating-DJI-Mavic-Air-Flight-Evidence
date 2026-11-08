@@ -1,0 +1,14 @@
+{
+    "updates": [
+        {
+            "action": "overlay",
+            "layer": "minor",
+            "name": "catalog",
+            "url": "https:\/\/d3pepq2g1s7voe.cloudfront.net\/catalogzip\/v2\/4551d4b5-a973-4526-90e0-fb26a89554f1\/14140-15065",
+            "zipPath": "52fb486f-c325-4a7b-a06e-2c3d26382ee5.zip",
+            "dirPath": "52fb486f-c325-4a7b-a06e-2c3d26382ee5"
+        }
+    ],
+    "stage": 2,
+    "index": 0
+}

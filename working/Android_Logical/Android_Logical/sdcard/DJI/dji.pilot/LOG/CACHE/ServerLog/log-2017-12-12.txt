@@ -1,0 +1,2 @@
+d: registerDeviceUrl onFailure=unknownHostException：can't resolve host
+d: registerDeviceUrl onFailure=unknownHostException：can't resolve host

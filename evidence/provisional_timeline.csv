@@ -1,0 +1,17 @@
+Date,Recorded Time,Timezone Status,UTC Time,Event or Observation,Source
+2018-06-19,14:49:39,Not established,Not established,SD card write speed warning,DJI error notification log
+2018-06-19,14:50:39,Timezone not specified in field,Not established,Video capture date recorded,MP4 INFO metadata
+2018-06-19,14:52:06,Not established,Not established,Maximum flight distance warning,DJI error notification log
+2018-06-19,14:52:08,Not established,Not established,Weak signal warning,DJI error notification log
+2018-06-19,14:52:14,Not established,Not established,High wind velocity warning,DJI error notification log
+2018-06-19,14:53:51,Not established,Not established,Maximum flight distance warning,DJI error notification log
+2018-06-19,14:55:33,Not established,Not established,Obstacle sensing disabled during landing warning,DJI error notification log
+2018-06-19,14:56:24,Not established,Not established,Backward obstacle sensing malfunction warning,DJI error notification log
+2018-06-19,15:02:10,Not established,Not established,Weak GPS signal and Attitude mode warning,DJI error notification log
+2018-06-19,14:55:41,EDT explicitly stated,18:55:41,Timestamp in INFO metadata header,MP4 INFO metadata
+2018-06-19,12:55:40,EDT filesystem offset -0400,16:55:40,TXT flight record modification time,DJI TXT flight record
+2018-06-19,12:55:42,EDT filesystem offset -0400,16:55:42,MP4 video modification time,MP4 file metadata
+2018-06-19,12:55:42,EDT filesystem offset -0400,16:55:42,INFO metadata modification time,INFO file metadata
+2018-06-19,12:58:24,EDT filesystem offset -0400,16:58:24,FLY057 DAT modification time,DAT flight record
+2018-06-19,13:02:10,EDT filesystem offset -0400,17:02:10,Error notification log modification time,DJI error log filesystem metadata
+2018-06-19,13:02:12,EDT filesystem offset -0400,17:02:12,FLY058 DAT modification time,DAT flight record

@@ -1,0 +1,14 @@
+Evidence ID,Evidence Description,Source Location,File Size,SHA-256,Examination Performed,Findings/Status
+EV01,Original Android logical archive,originals/Android_Logical.zip,415154789,9a352b282d832556eb7cb73010ea281f9946d889438ce07d9bbee3b64229285d,SHA-256 verification,Reference archive
+EV02,Working Android logical archive,working/Android_Logical.zip,415154789,9a352b282d832556eb7cb73010ea281f9946d889438ce07d9bbee3b64229285d,SHA-256 verification,Hash matches original archive
+EV03,DJI TXT flight record,FlightRecord/DJIFlightRecord_2018-06-19_[14-50-34].txt,555776,0a9f1816d52a98f840f6e67c08a14473ae5a0a2e75e9484d5de66368c4fd4c4a,File identification and binary examination,Structure unresolved
+EV04,DJI DAT flight record FLY057,FlightRecord/MCDatFlightRecords/18-06-19-02-47-38_FLY057.DAT,4002791,06130820a4a813bf21f7286150bd3c83084105fecc899bb4d8534895fa2df3a1,Header and binary comparison,Structure unresolved
+EV05,DJI DAT flight record FLY058,FlightRecord/MCDatFlightRecords/18-06-19-02-59-05_FLY058.DAT,1104150,fdfccf0c5b1d90d189c19032bb34e151914f42fba42c7994d0492cf327ade07a,Header and binary comparison,Structure unresolved
+EV06,Cached DJI MP4 video,DJI_RECORD/2018_06_19_14_50_39.mp4,57791765,2ae2a4f186803ec592b0af6284634e592c5079395e99f7df3edd583f8e72ab00,FFprobe and video frame examination,Video stream examined
+EV07,MP4 INFO metadata,DJI_RECORD/2018_06_19_14_50_39.info,1441,a42bfeb57c5fff850bc059e10eb9a7b4f7b84887feb71e65464099d1e0fd0b4a,Text and metadata examination,Capture and synchronisation fields identified
+EV08,DJI error notification log,LOG/ERROR_POP_LOG/19-06-2018-0K1DF313BD4PR1,828,cb9671659ae2ff11b0fd3dd846e8702a81366479b04f3e2442300b2211bcff3e,Timestamp and warning examination,Eight timestamped warnings identified
+EV09,Collection of six cached DJI GO 4 JPEG images,CACHE_IMAGE directory,6 files,Individual hashes not yet recorded,Image identification and metadata examination,Six JPEG thumbnails identified and contact sheet generated
+EV10,DJI GO 4 application logs dated 19 June 2018,LOG directory,30 files,Selected log content and binary examination,Several readable warnings recovered; other logs remain uninterpreted
+EV11,DJI analytics MAP and TLV files,DJI_RECORD/analytics directory,2 files,File inventory,Present but not structurally interpreted
+EV12,Raw internal microSD image,Not supplied or successfully acquired,Unavailable,Not calculated,Not examined,Could not be obtained for forensic examination
+EV13,EWF forensic image,Not supplied or successfully acquired,Unavailable,Not calculated,Not examined,Could not be obtained for forensic examination
